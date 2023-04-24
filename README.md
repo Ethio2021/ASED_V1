@@ -11,3 +11,5 @@ Every recording was independently reviewed by all eight judges. Concerning emoti
 Five emotions were chosen: n (neutral) f (fearful) h (happy) s (sad) a (angry) 
 ### Organization the Database 
 There are five folders, named after the five emotion classes. Every filename in the dataset is in the following form: xn-yy-aa-gg-bb where xn indicates the emotion and number of folder (a5--> anger, h3--> happiness etc.) yy is the number of the sentence (01,02...07) aa is the number of repetition (01 = 1st repetition, 02 = 2nd repetition) gg is the number of gender (01 = female, 02 = male) bb is the number of the speaker (01 --> 1st speaker, 02 --> 2nd speaker...65) e.g. 'a5-03-01-02-50.wav' is the 3rd sentence spoken by the 50th male speaker with angry the first time in folder 5.
+### Paper
+If you use this dataset, please cite the following article: Ephrem Afele Retta, Eiad Almekhlafi, Richard Sutcliffe, Mustafa Mhamed, Haider Ali, and Jun Feng. 2022. A New Amharic Speech Emotion Dataset and Classification Benchmark. ACM Trans. Asian Low-Resour. Lang. Inf. Process. Just Accepted (May 2022). https://doi.org/10.1145/3529759
